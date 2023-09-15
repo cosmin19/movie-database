@@ -15,7 +15,8 @@
                 "Stephanie Hsu",
                 "Jamie Lee Curtis"
             ],
-            "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg",
+            "cover": null,
+            "_cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/220px-Everything_Everywhere_All_at_Once.jpg",
             "imdb": "https://www.imdb.com/title/tt6710474/"
         },
         {
